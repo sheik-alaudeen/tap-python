@@ -1,0 +1,18 @@
+paths:
+  input: "data"
+  output: "output"
+  logs: "logs"
+
+thresholds:
+  rejection_rate: 0.20
+
+mappings:
+  order_status:
+    - created
+    - approved
+    - invoiced
+    - processing
+    - shipped
+    - delivered
+    - canceled
+    - unavailable
