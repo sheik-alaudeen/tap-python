@@ -1,0 +1,8 @@
+{
+  "columns": {
+    "order_id": {"source": "order_id"},
+    "customer_id": {"source": "customer_id"},
+    "order_status": {"source": "order_status"},
+    "new_column": {"source": "reviewer_added_column", "default": ""}
+  }
+}
