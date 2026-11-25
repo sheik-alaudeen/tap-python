@@ -1,0 +1,8 @@
+2026-11-23 16:11:59,693 - INFO - Pipeline started
+2026-11-23 16:11:59,694 - WARNING - Some data is missing
+2026-11-23 16:11:59,696 - ERROR - Processing failed
+2026-11-23 16:12:01,088 - INFO - Pipeline started
+2026-11-23 16:12:01,089 - INFO - Pipeline completed
+2026-11-23 16:19:02,856 - INFO - Processing started
+2026-11-23 16:19:02,858 - WARNING - Missing optional column
+2026-11-23 16:19:02,859 - ERROR - File processing failed

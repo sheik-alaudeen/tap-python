@@ -1,0 +1,12 @@
+[
+    {
+        "customer_id": "C001",
+        "customer_city": "Chennai",
+        "customer_state": "TN"
+    },
+    {
+        "customer_id": "C002",
+        "customer_city": "Coimbatore",
+        "customer_state": "TN"
+    }
+]
